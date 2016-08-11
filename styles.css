@@ -33,6 +33,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    padding: 20px 20px;
 }
 
 #itemA {
@@ -44,7 +45,16 @@
   background-image: url("imagens/159.jpg");
 }
 
-
 #itemC {
   background-image: url("imagens/175.jpg");
+}
+
+.my-card{
+  width: 100%;
+}
+
+.separador{
+  width: 100%;
+  height: 15px;
+  background-color: rgb(76,175,80);
 }
