@@ -50,7 +50,7 @@
 }
 
 .my-card{
-  width: 100%;
+  width: fit-content;
 }
 
 .separador{
