@@ -70,11 +70,14 @@
                             <h2 class="mdl-card__title-text">Regras:</h2>
                         </div>
                         <div class="mdl-card__supporting-text">
-                            <ul>
-                              <li>regra 1...</li>
-                              <li>regra 2...</li>
-                              <li>regra 3...</li>
-                            </ul>
+                            <ol>
+                              <li>Quem chegar após as 09:00 não poderá participar</li>
+                              <li>Permitido grupo de até três pessoas</li>
+                              <li>Internet permitida apenas para uso da plataforma com a penalidade de desclassificação</li>
+                              <li>Permitido o uso de livros e anotações</li>
+                              <li>Proibido interação com outros grupos durante a maratona</li>
+                              <li>Caso haja empate, a solução submetida primeiro será a vencedora</li>
+                            </ol>
                         </div>
                     </div>
                 </div>
