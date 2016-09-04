@@ -22,11 +22,30 @@
 }
 
 #itemB{
-  background-image: url('../img/39.jpg');
+  background: #e9ebee;
 }
 #itemC{
   background-image: url('../img/61.jpg');
 }
 #itemD{
   background-image: url('../img/62.jpg');
+}
+
+.mdl-card{
+  width: 100%;
+  min-height: 80px;
+}
+
+.google-maps {
+  position: relative;
+  padding-bottom: 75%; // This is the aspect ratio
+  height: 0;
+  overflow: hidden;
+}
+.google-maps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100% !important;
+  height: 100% !important;
 }
