@@ -1,0 +1,32 @@
+.parallax {
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallax img{
+  width: 100%;
+  visibility: hidden;
+}
+
+#itemA{
+  background-image: url('../img/Im_2.3.png');
+  background-position: 0px 56px;
+  background-size: 100%;
+  height: 100%;
+}
+
+#itemA img{
+  visibility: hidden;
+}
+
+#itemB{
+  background-image: url('../img/39.jpg');
+}
+#itemC{
+  background-image: url('../img/61.jpg');
+}
+#itemD{
+  background-image: url('../img/62.jpg');
+}
