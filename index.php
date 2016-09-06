@@ -59,7 +59,7 @@
                       </div>
                       <div class="mdl-card__supporting-text">
                           <p>
-                            Informações de como é uma maratona e afins...
+                           A Maratona de Programação é um evento que será realizado pelo IFSP campus Araraquara criado neste ano de 2016 em prol  de destinar aos alunos de computação a busca de desenvolver habilidades que abrangem soluções de problemas, capacidade de trabalho em equipe, trabalhar sob pressão. Os times serão compostos de até 3 integrantes.
                           </p>
                       </div>
                   </div>
